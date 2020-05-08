@@ -1,5 +1,5 @@
 # hello-world
-testing github 
+testing 
 
 # about me
 i am 12
